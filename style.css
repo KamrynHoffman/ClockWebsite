@@ -1,0 +1,48 @@
+.myDivA {
+  height: relative;
+  width: relative;
+  display: flex;
+  text-align: center;
+  word-break: break-all;
+  background-color: #55acee;
+  color: white;
+}
+
+.myDivB {
+  height: relative;
+  width: relative;
+  display: flex;
+  text-align: center;
+  word-break: break-all;
+  background-color: #292f33;
+  color: white;
+}
+
+.myDivC {
+  height: relative;
+  width: relative;
+  display: flex;
+  text-align: center;
+  word-break: break-all;
+  background-color: #66757f;
+  color: white;
+}
+
+.myDivD {
+  height: relative;
+  width: relative;
+  display: flex;
+  text-align: center;
+  word-break: break-all;
+  background-color: #ccd6dd;
+  color: white;
+}
+
+
+
+.myDivF {
+}
+
+.container1 {
+  flex: 1;
+}
